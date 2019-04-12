@@ -1,13 +1,5 @@
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Pets</title>
-</head>
-    <h2>Friday 12 April</h2>
-</body>
-</html>
+
 <?php
 
 ini_set('display_errors', 1);
