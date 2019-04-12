@@ -1,0 +1,16 @@
+{
+  "name": "bturner/328/pets",
+  "authors": [
+    {
+      "name": "Bruce Turner",
+      "email": "BTurner15@mail.greenriver.edu"
+    },
+    {
+      "name": "Bo Zhang",
+      "email": "bzhang3@mail.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
